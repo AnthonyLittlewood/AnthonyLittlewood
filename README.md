@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnthonyLittlewood
-- 👀 I’m interested in ... Web Development, EDI / Data Integration
-- 🌱 I’m currently learning ...html, css then onto back end with an interest in C++
+- 👀 I’m interested in ... EDI / Data Integration
+- 🌱 I’m currently learning ... AWS, Containers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... anthony_littlewood@icloud.com
 
